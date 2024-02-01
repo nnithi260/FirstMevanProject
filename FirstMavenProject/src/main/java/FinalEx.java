@@ -8,6 +8,7 @@ void run() {
 	public static void main(String[] args) {
 	FinalEx f1= new FinalEx();
 	f1.run();
+	System.out.println("hello");
 	}
 
 }
